@@ -8,7 +8,7 @@ We use statistical learning to uncover various ways in which the female and non-
 
 ## Characters
 | Predictor variable          |         Description                                                                                                        |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ----------------------------|--------------------------------------------------------------------------------------------------------------------------- |
 | Gender                      | female, male, non-binary, custom                                                                                           |
 | Age_range:                  | elderly, middle-aged, adult, young adult, teenager, child, infant, unknown                                                 |
 | Playable:                   |  non-playable (0), playable (1)                                                                                            |
@@ -20,7 +20,7 @@ We use statistical learning to uncover various ways in which the female and non-
 
 ## Games                                  
 | Predictor variable          |         Description                                                                                                        |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ----------------------------|--------------------------------------------------------------------------------------------------------------------------- |
 | Release:                    |  Years 2012-2022                                                                                                           |
 | Genre:                      |  Action adventure, role playing game (RPG), action, adventure, simulation, interactive story                               |
 | Publisher:                  |  Game publishers                                                                                                           |
@@ -35,7 +35,7 @@ We use statistical learning to uncover various ways in which the female and non-
 
 ## Sexualization                                                                                                                                        
 | Predictor variable          |         Description                                                                                                        |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ----------------------------|--------------------------------------------------------------------------------------------------------------------------- |
 | Sexualized clothing:        | True/False                                                                                                                 |
 | Sexualized cutscenes:       | True/False                                                                                                                 |
 
