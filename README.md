@@ -3,6 +3,8 @@
 A statistical analysis of gender representation in video games using the language R on a data set (https://www.kaggle.com/datasets/br33sa/gender-representation-in-video-games).
 We use statistical learning to uncover various ways in which the female and non-female characters (including male, non-binary and custom) are portrayed, identify prevalent stereotypes, and analyse how different gender identities are represented in video games
 
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
+
 ## Variables used
 
 
