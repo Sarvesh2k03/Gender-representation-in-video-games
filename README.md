@@ -4,7 +4,9 @@ A statistical analysis of gender representation in video games using the languag
 We use statistical learning to uncover various ways in which the female and non-female characters (including male, non-binary and custom) are portrayed, identify prevalent stereotypes, and analyse how different gender identities are represented in video games
 
 ## Variables used
---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+## Characters
 Predictor variable          |         Description                                                                                                       |
 --------------------------------------------------------------------------------------------------------------------------------------------------------|
 Gender                      | female, male, non-binary, custom                                                                                          |
@@ -15,8 +17,11 @@ Species:                    |  human, humanoid, animated object, animal, animate
 Side:                       |  protagonist/neutral (P), antagonist (A), both sides (B)                                                                  |
 Relevance:                  |  protagonist (PA), deuteragonist (DA), sidekick (SK), main character (MC), secondary character (SC), main antagonist (MA) |
 Romantic interest:          |  yes, no, optional                                                                                                        |
+
+
+## Games                                  
+Predictor variable          |         Description                                                                                                       |
 --------------------------------------------------------------------------------------------------------------------------------------------------------|
-Games                                                                                                                                                   |
 Release:                    |  Years 2012-2022                                                                                                          |
 Genre:                      |  Action adventure, role playing game (RPG), action, adventure, simulation, interactive story                              |
 Publisher:                  |  Game publishers                                                                                                          |
@@ -28,8 +33,11 @@ Relevant_males:             | Number of males in the game (0-17)                
 Relevant_non_male:          |  Number of female, non-binary and custom characters in the game (0-14)                                                    |
 Percentage_non_male:        | Percent of total characters that are non-male                                                                             |
 Avg_reviews:                |  Average of the ratings from Metacritic, Destructoid, IGN, and Gamestop                                                   |
+
+
+## Sexualization                                                                                                                                        
+Predictor variable          |         Description                                                                                                       |
 --------------------------------------------------------------------------------------------------------------------------------------------------------|
-Sexualization                                                                                                                                           |
 Sexualized clothing:        | True/False                                                                                                                |
 Sexualized cutscenes:       | True/False                                                                                                                |
---------------------------------------------------------------------------------------------------------------------------------------------------------|
+
